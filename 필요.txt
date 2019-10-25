@@ -1,0 +1,12 @@
+npm link body-parser
+npm link express 
+npm install -g nodemon
+npm install @material-ui/core
+git init
+git remote add origin https://github.com/hoon3024/project.git   
+git push --set-upstream origin master
+
+git설치
+vscode설치
+node.js 설치
+npm start
