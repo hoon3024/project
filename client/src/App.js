@@ -67,4 +67,3 @@ return <Customer key={c.id} id={c.id} image={c.image} name={c.name} birthday={c.
 export default withStyles(styles)(App);
 
 
-

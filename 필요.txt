@@ -10,3 +10,10 @@ git설치
 vscode설치
 node.js 설치
 npm start
+
+fuser -n tcp -k 4000
+kill pid
+
+// 또는 다음 명령어를 사용해도 된다.
+netstat -ntlp
+kill pid
