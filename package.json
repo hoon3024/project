@@ -7,7 +7,7 @@
         "dev": "concurrently --kill-others-on-fail \"yarn.cmd server\" \"yarn.cmd client\""
     },
     "dependencies": {
-        "body-parser": "^1.18.3",
+        "body-parser": "^1.19.0",
         "express": "^4.16.4",
         "http-proxy-middleware": "^0.20.0",
         "mysql": "^2.17.1"
